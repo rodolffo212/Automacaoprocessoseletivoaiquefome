@@ -1,0 +1,18 @@
+1652840804852	geckodriver	INFO	Listening on 127.0.0.1:64229
+1652840807928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODOLF~1\\AppData\\Local\\Temp\\rust_mozprofilexZrPyh"
+1652840808155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODOLF~1\\AppData\\Local\\Temp\\rust_mozprofilexZrPyh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64230/devtools/browser/23436c6f-6efe-473c-9376-ccf44a3ed303
+1652840809306	Marionette	INFO	Listening on port 64250
+Read port: 64250
+1652840809384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.magazineluiza.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.magazineluiza.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.magazineluiza.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.magazineluiza.com.br"
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Already requesting showcase recommendation.
+1652840824185	Marionette	INFO	Stopped listening on port 64250
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
